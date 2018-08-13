@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "BYK Coming Soon",
-    "currentPage": "index.html",
+    "currentPage": ".html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,11 +48,11 @@
     ]
   },
   "pages": {
-    "index.html": {
+    ".html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Backyard Kids!",
+        "meta_descr": "We're on the way! Stay tuned.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
